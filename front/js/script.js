@@ -29,5 +29,4 @@ fetch("http://localhost:3000/api/products")
       newArticle.appendChild(text);
     }
    })
-
-   const 
+   
